@@ -1,0 +1,18 @@
+employee_id,name,age,department,gender,salary,joining_year,performance_score,city
+101,Amit Sharma,28,Sales,Male,45000.0,2019,8.2,Mumbai
+102,Priya Patel,34,HR,Female,52000.0,2017,7.5,Delhi
+103,Rohit Mehta,-5,Sales,male,,2021,6.9,Mumbai
+104,Sneha Joshi,29,IT,FEMALE,61000.0,2020,,
+105,Karan Desai,45,Finance,Male,75000.0,2016,9.1,Bangalore
+106,Neha Kulkarni,31,HR,female,48000.0,2018,7.8,Pune
+107,Vikram Singh,27,Sales,MALE,,2022,8.5,Mumbai
+108,Ananya Rao,999,IT,Female,90000.0,2015,,Hyderabad
+109,Suresh Nair,38,Finance,male,82000.0,2019,7.2,Chennai
+110,Pooja Iyer,26,Sales,Female,43000.0,2023,8.9,Mumbai
+111,Arjun Gupta,33,HR,Male,55000.0,2020,6.5,
+112,Divya Shah,41,IT,FEMALE,70000.0,2018,9.3,Bangalore
+113,Manish Tiwari,29,Finance,male,67000.0,2017,7.1,Delhi
+114,Riya Verma,35,Sales,Female,49000.0,2021,8.0,Pune
+115,Sanjay Kapoor,52,HR,Male,95000.0,2014,9.8,Mumbai
+103,Rohit Mehta,-5,Sales,male,,2021,6.9,Mumbai
+107,Vikram Singh,999,IT,MALE,90000.0,2015,8.5,Hyderabad
